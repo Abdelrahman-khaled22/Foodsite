@@ -1,0 +1,175 @@
+.baner{
+    width: 100%;
+    height: 100vh;
+    background: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    width: 100;
+    position: absolute;
+    top: 30%;
+    transform: translate(50%);
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.content h4{
+    line-height: 3;
+}
+.content p{
+    line-height: 7;
+}
+.navbar{
+    padding: 15px;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+button{
+    width: 200;
+    padding: 15px 10px;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    border: 2px solid;
+    color: white;
+    background: transparent;
+    cursor: pointer;
+}
+.frist-1 , h1{
+    font-family: Alegreya,serif,monospace;
+    text-transform: capitalize;
+    font-size: 90px;
+}
+.frist-1{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+.frist-2{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.crl{
+    clear: both;
+}
+i{
+    margin-right: 10px;
+}
+.second{
+    background-color: #F8F8F8;
+}
+.second-1{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.second-2{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.third-1{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.third-2{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.third-3{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.fourth{
+    background-color: #F8F8F8;
+    color: #686868;
+}
+.fourth-1{
+    width: 50%;
+    float: left;
+}
+.fourth-1 table{
+    margin-left: 20%;
+}
+.fourth-2{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.last{
+    background-color: #403D38;
+}
+.last-1{
+    width: 20%;
+    float: left;
+    color: #969696;
+    margin-left: 5%;
+}
+.last-2{
+    width: 20%;
+    float: left;
+    color: #969696;
+    margin-left: 5%;
+}
+.last-3{
+    width: 20%;
+    float: left;
+    color: #969696;
+    margin-left: 5%;
+}
+.last-4{
+    width: 20%;
+    float: left;
+    color: #969696;
+    margin-right: 5%;
+}
+.last-4 a {
+    color: #969696;
+}
+.last h4{
+    color: #fff;    
+}
+h4 , h2 {
+    font-family: Alegreya,serif,monospace;
+    text-transform: capitalize;
+}
+.bakery{
+    background-color: #353330;
+    color: #969696;
+    text-align: center;
+}
+.icon i {
+    color: #686868;
+}
+
+.bakery a{
+    text-decoration: none;
+    color: #969696;
+}
+
+.bakery:hover{
+    color: #e9b05b;
+}
+
+.bakery a:hover{
+    color: white;
+    
+}
